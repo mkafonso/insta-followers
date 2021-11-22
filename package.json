@@ -1,0 +1,10 @@
+{
+  "name": "insta-followers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "makaya2afonso <makaya2afonso@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^11.0.0"
+  }
+}
